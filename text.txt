@@ -1,4 +1,6 @@
 1234567890
+
+远程克隆到本地，再上传
 git clone xxxx
 git status
 git add xxx.xxx
@@ -9,3 +11,5 @@ $ git config --global user.email"***@***.com"
 输入 git log 命令查看仓库提交日志
 输入 git status 查看一下仓库状态
  git push origin master 将本地仓库提交到远程仓库
+
+本地有仓库，直接上传
