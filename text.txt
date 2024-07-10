@@ -1,1 +1,11 @@
 1234567890
+git clone xxxx
+git status
+git add xxx.xxx
+git commit -m "提交信息" 将其提交到本地仓库
+#你只要再加两行代码就行：
+$ git config --global user.name"fengye97"
+$ git config --global user.email"***@***.com"
+输入 git log 命令查看仓库提交日志
+输入 git status 查看一下仓库状态
+ git push origin master 将本地仓库提交到远程仓库
