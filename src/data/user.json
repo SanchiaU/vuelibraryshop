@@ -1,0 +1,38 @@
+[
+  {
+    "username": "test",
+    "nickname": "张三",
+    "avatar": "avatar.png",
+    "status": 10
+  },
+  {
+    "username": "abc",
+    "nickname": "李四",
+    "avatar": "avatar.png",
+    "status": 20
+  },
+  {
+    "username": "hello",
+    "nickname": "王五",
+    "avatar": "avatar.png",
+    "status": 10
+  },
+  {
+    "username": "hi",
+    "nickname": "赵六",
+    "avatar": "avatar.png",
+    "status": 20
+  },
+  {
+    "username": "123",
+    "nickname": "孙七",
+    "avatar": "avatar.png",
+    "status": 10
+  },
+  {
+    "username": "12345",
+    "nickname": "周八",
+    "avatar": "avatar.png",
+    "status": 10
+  }
+]

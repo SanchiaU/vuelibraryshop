@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "effective java中文版",
+    "price": 39.2,
+    "image": "iPhone14.png",
+    "quantity": 1,
+    "amount": 7999,
+    "size": "紫色",
+    "selected": false
+  },
+  {
+    "id": 2,
+    "title": "高等数学",
+    "price": 60,
+    "image": "苹果.png",
+    "quantity": 1,
+    "amount": 69.9,
+    "size": "10个",
+    "selected": false
+  },
+  {
+    "id": 3,
+    "title": "新高中英语词汇",
+    "price": 14.8,
+    "image": "香蕉.png",
+    "quantity": 1,
+    "amount": 14.8,
+    "size": "1斤",
+    "selected": false
+  },
+  {
+    "id": 4,
+    "title": "python编程",
+    "price": 32,
+    "image": "macbook.png",
+    "quantity": 1,
+    "amount": 15999,
+    "size": "深空灰色",
+    "selected": false
+  },
+  {
+    "id": 5,
+    "title": "文明之光",
+    "price": 45,
+    "image": "鼠标.png",
+    "quantity": 1,
+    "amount": 45,
+    "size": "太空黑",
+    "selected": false
+  },
+  {
+    "id": 6,
+    "title": "全真模拟卷",
+    "price": 15,
+    "image": "行李箱.png",
+    "quantity": 1,
+    "amount": 145,
+    "size": "白色",
+    "selected": false
+  },
+  {
+    "id": 7,
+    "title": "java入门到精通",
+    "price": 29,
+    "image": "iwatch.png",
+    "quantity": 1,
+    "amount": 6299,
+    "size": "绿色",
+    "selected": false
+  },
+  {
+    "id": 8,
+    "title": "c++入门到精通",
+    "price": 69,
+    "image": "iPad.png",
+    "quantity": 1,
+    "amount": 6799,
+    "size": "银色",
+    "selected": false
+  }
+]

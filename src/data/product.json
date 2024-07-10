@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "effective java中文版",
+    "stock": 1000,
+    "desc": "《Effective Java中文版（原书第3版）》是2024年人民邮电出版社出版的图书，作者是[美] 约书亚·布洛克（Joshua Bloch）。用",
+    "image": "iPhone14.png",
+    "price": 34.6,
+    "sizeList": [
+      {
+        "title": "电子书"
+      },
+      {
+        "title": "纸质书"
+      },
+      {
+        "title": "纸质书+电子书"
+      }
+    ],
+    "status": 10
+  },
+  {
+    "id": 2,
+    "title": "高等数学",
+    "stock": 1000,
+    "desc": "《高等数学（第七版）》是由同济大学数学系编写、高等教育出版社出版的“十二五”普通高等教育本科国家级规划教材，适合高等院校工科类各专业学生使用。",
+    "image": "苹果.png",
+    "price": "33.99",
+    "sizeList": [
+      {
+        "title": "电子书"
+      },
+      {
+        "title": "纸质书"
+      },
+      {
+        "title": "纸质书+电子书"
+      }
+    ],
+    "status": 10
+  },
+  {
+    "id": 3,
+    "title": "新高中英语词汇",
+    "stock": 1000,
+    "desc": "紧扣考纲:以新课程标准为依据,深入研究考纲,知识点全面覆盖,直击高考. 结构导图,系统梳理知识,温馨提示,指点迷津;巧学妙记,激发兴趣. 链接新高考真题,还原考试现场,巩固训练,掌握高考命题趋势.",
+    "image": "香蕉.png",
+    "price": "18.6",
+    "sizeList": [
+      {
+        "title": "电子书"
+      },
+      {
+        "title": "纸质书"
+      },
+      {
+        "title": "纸质书+电子书"
+      }
+    ],
+    "status": 10
+  },
+  {
+    "id": 4,
+    "title": "python编程",
+    "stock": 1000,
+    "desc": "Python编程：从入门到实践》，本书作者Eric Matthes，译者袁国忠，由人民邮电出版社于2016年7月出版",
+    "image": "macbook.png",
+    "price": 21.6,
+    "sizeList": [
+      {
+        "title": "电子书"
+      },
+      {
+        "title": "纸质书"
+      },
+      {
+        "title": "纸质书+电子书"
+      }
+    ],
+    "status": 10
+  },
+  {
+    "id": 5,
+    "title": "文明之光",
+    "stock": 1000,
+    "desc": "非常好用",
+    "image": "鼠标.png",
+    "price": 18.00,
+    "sizeList": [
+      {
+        "title": "电子书"
+      },
+      {
+        "title": "纸质书"
+      },
+      {
+        "title": "纸质书+电子书"
+      }
+    ],
+    "status": 20
+  },
+  {
+    "id": 6,
+    "title": "全程测评试卷",
+    "stock": 1000,
+    "desc": "非常好用",
+    "image": "行李箱.png",
+    "price": 11,
+    "sizeList": [
+      {
+        "title": "电子书"
+      },
+      {
+        "title": "纸质书"
+      },
+      {
+        "title": "纸质书+电子书"
+      }
+    ],
+    "status": 20
+  },
+  {
+    "id": 7,
+    "title": "java入门到精通",
+    "stock": 1000,
+    "desc": "非常好用",
+    "image": "iwatch.png",
+    "price": 36,
+    "sizeList": [
+      {
+        "title": "电子书"
+      },
+      {
+        "title": "纸质书"
+      },
+      {
+        "title": "纸质书+电子书"
+      }
+    ],
+    "status": 20
+  },
+  {
+    "id": 8,
+    "title": "c++入门到精通",
+    "stock": 1000,
+    "desc": "非常好用",
+    "image": "iPad.png",
+    "price": 21,
+    "sizeList": [
+      {
+        "title": "电子书"
+      },
+      {
+        "title": "纸质书"
+      },
+      {
+        "title": "纸质书+电子书"
+      }
+    ],
+    "status": 20
+  }
+]
