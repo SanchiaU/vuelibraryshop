@@ -16,3 +16,4 @@ $ git config --global user.email"***@***.com"
 git init 命令初始化这个仓库
 git remote add origin xxx.xx
 git pull origin master 命令，同步远程仓库和本地仓库
+1111
